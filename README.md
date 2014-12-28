@@ -1,7 +1,7 @@
 HPSCPy
 =======
 
-This project highlights Pythons abilities as a glue language and proves that Python can be 
+This project highlights Pythons abilities as a glue language and proves that Python can be a
 powerful tool for High Performance Scientific Computing. I solved the 2D wave PDE over a mesh 
 grid to help showcase how to speed up a pure Python code. One implementation to speed up the 
 program was exporting the main finite differencing loop to C compiled code via Cython. Another 
